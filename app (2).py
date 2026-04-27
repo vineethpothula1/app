@@ -19,7 +19,7 @@ from PIL import Image
 import pytesseract
 
 # --- CONFIG ---
-API_KEY = "YOUR_GROQ_API_KEY"
+API_KEY = "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"
 client = Groq(api_key=API_KEY)
 
 st.set_page_config(page_title="AI Learning Assistant", layout="wide")
